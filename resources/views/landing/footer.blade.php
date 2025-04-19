@@ -9,8 +9,9 @@
             <div class="col-md-4 mb-4">
                 <h5>Legal</h5>
                 <ul class="list-unstyled">
-                    <li><a href="{{ url('/privacy') }}" class="text-decoration-none text-dark">Privacy Policy</a></li>
-                    <li><a href="{{ url('/terms') }}" class="text-decoration-none text-dark">Terms of Service</a></li>
+                    <li><a href="{{ url('/privacy-policy') }}" class="text-decoration-none text-dark">Privacy Policy</a></li>
+                    <li><a href="{{ url('/terms-of-service') }}" class="text-decoration-none text-dark">Terms of Service</a></li>
+                    <li><a href="{{ url('/refund-policy') }}" class="text-decoration-none text-dark">Refund Policy</a></li>
                 </ul>
             </div>
 

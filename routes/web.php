@@ -7,7 +7,8 @@ Route::get(
     '/',
     fn() => view('index')
 );
-Route::get('/privacy', fn() => view('privacy'));
-Route::get('/terms', fn() => view('terms'));
+Route::get('/privacy-policy', fn() => view('privacy'));
+Route::get('/terms-of-service', fn() => view('terms'));
+Route::get('/refund-policy', fn() => view('refund'));
 
 Route::fallback(fn() => view('index'));
