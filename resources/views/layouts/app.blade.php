@@ -164,42 +164,6 @@
             background-color: #323a49;
         }
 
-        .landing-page {
-            position: relative;
-            background: #000;
-            background-size: cover;
-            background-position: center;
-            height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .landing-page::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: rgba(39, 39, 39, 0.508);
-            z-index: 1;
-        }
-
-        .landing-page>* {
-            position: relative;
-            z-index: 99;
-        }
-
-        .landing-page h1,
-        .landing-page p {
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
-        }
-
-        .blurred {
-            filter: blur(5px);
-        }
-
         .auth-bg {
             background-image: url('https://axleshift-core1.s3.eu-north-1.amazonaws.com/images/axleshift.png');
             background-size: cover;
@@ -209,7 +173,7 @@
             left: 0;
             right: 0;
             bottom: 0;
-            opacity: 0.3;
+            opacity: 0.9;
         }
     </style>
 </head>

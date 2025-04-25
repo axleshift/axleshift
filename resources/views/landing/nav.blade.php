@@ -1,4 +1,4 @@
-<nav class="navbar fixed-top px-2 py-3" style="background: 'linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0))';">
+<nav class="navbar fixed-top px-2 py-3" style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));">
     <div class=" container-fluid d-flex justify-content-between align-items-center">
 
         <a class="navbar-brand me-auto" href="/">

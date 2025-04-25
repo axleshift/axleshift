@@ -9,8 +9,9 @@
             <div class="col-md-4 mb-4">
                 <h5>Legal</h5>
                 <ul class="list-unstyled">
-                    <li><a href="{{ url('/privacy') }}" class="text-decoration-none text-dark">Privacy Policy</a></li>
-                    <li><a href="{{ url('/terms') }}" class="text-decoration-none text-dark">Terms of Service</a></li>
+                    <li><a href="{{ url('/privacy-policy') }}" class="text-decoration-none text-dark">Privacy Policy</a></li>
+                    <li><a href="{{ url('/terms-of-service') }}" class="text-decoration-none text-dark">Terms of Service</a></li>
+                    <li><a href="{{ url('/refund-policy') }}" class="text-decoration-none text-dark">Refund Policy</a></li>
                 </ul>
             </div>
 
@@ -25,13 +26,6 @@
         <div class="row border-top pt-4 mt-4">
             <div class="col-md-6">
                 <p class="mb-0">Axleshift © {{ date('Y') }}. All rights reserved.</p>
-            </div>
-            <div class="col-md-6 text-md-end">
-                <ul class="list-unstyled d-flex justify-content-md-end">
-                    <li class="ms-3"><a href="https://facebook.com" class="text-dark"><i class="bi bi-facebook"></i></a></li>
-                    <li class="ms-3"><a href="https://twitter.com" class="text-dark"><i class="bi bi-twitter"></i></a></li>
-                    <li class="ms-3"><a href="https://linkedin.com" class="text-dark"><i class="bi bi-linkedin"></i></a></li>
-                </ul>
             </div>
         </div>
     </div>
