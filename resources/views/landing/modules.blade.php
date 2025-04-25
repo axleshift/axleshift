@@ -8,7 +8,7 @@
         [
             'name' => 'CORE 1',
             'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-            'url' => 'https://core1.axleshift.com',
+            'url' => 'https://core1.axleshift.com/login',
         ],
         [
             'name' => 'CORE 2',
