@@ -18,37 +18,37 @@
         [
             'name' => 'FINANCE',
             'description' => 'Simplifies financial management for your organization. It provides tools for tracking expenses, managing budgets, and generating financial reports. This module ensures transparency and accuracy in financial operations.',
-            'url' => 'https://finance.axleshift.com',
+            'url' => 'https://finance.axleshift.com/login',
         ],
         [
             'name' => 'HR 1',
             'description' => 'Managing employee records and attendance tracking. It also handles employee offboarding, HR analytics, and reporting. This module is designed to streamline human resource operations efficiently.',
-            'url' => 'https://hr1.axleshift.com',
+            'url' => 'https://hr1.axleshift.com/login',
         ],
         [
             'name' => 'HR 2',
             'description' => 'Facilitates new hire documentation and onboarding processes. It supports job posting, recruitment, and application management, making it an essential tool for talent acquisition teams.',
-            'url' => 'https://hr2.axleshift.com',
+            'url' => 'https://hr2.axleshift.com/login',
         ],
         [
             'name' => 'HR 3',
             'description' => 'Handles payroll, benefits, and compliance management. It also manages leave requests, ensuring smooth and accurate employee compensation processes.',
-            'url' => 'https://hr3.axleshift.com',
+            'url' => 'https://hr3.axleshift.com/login',
         ],
         [
             'name' => 'HR 4',
             'description' => 'Focuses on employee training and development. It provides tools for managing training budgets, generating reports, and overseeing talent and learning management programs.',
-            'url' => 'https://hr4.axleshift.com',
+            'url' => 'https://hr4.axleshift.com/login',
         ],
         [
             'name' => 'LOG 1',
             'description' => 'Designed for vehicle and driver management. It optimizes load planning, fuel management, and overall logistics operations, ensuring efficient resource utilization.',
-            'url' => 'https://log1.axleshift.com',
+            'url' => 'https://log1.axleshift.com/login',
         ],
         [
             'name' => 'LOG 2',
             'description' => 'Streamlines document tracking and warehouse inventory management. It also provides a vendor portal for better collaboration and operational efficiency.',
-            'url' => 'https://log2.axleshift.com',
+            'url' => 'https://log2.axleshift.com/',
         ],
     ];
 @endphp
